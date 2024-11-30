@@ -86,3 +86,7 @@ Tudo até ter constância de vendas e alavancar
 - Guia Valorant (radiante)
 
 *Ainda tem muita coisa que vai mudar, principalmente o nome de cada tópico, conteúdo, se vai ser módulo ou categoria alguns desses pontos. E com certeza vou começar pelos principais e mais importantes, os outros talvez eu nem faça ou será deixado como secundário. Alguns conteúdos vão ser exatamente o mesmo para algumas categorias, pois precisam passar pelo mesmo conteúdo antes de seguir, entao eu posso fazer de alguma forma que já veja antes e organize em módulos. Falta muito planejamento ainda, mas uma base forte..*
+
+### Sistema de Ranques
+
+No app vai conter todo o conhecimento para sair do nada até a mais preparada pessoa de sucesso, milionária. Vai conter conhecimentos teóricos e práticos reais que vão fazer ganhar experiência de vida. Ao chegar no ranque X você já vai ter absorvido tudo que precisa para ser bem sucessido e milionário, se já não for. Comunidade exclusiva para o último ranque (chat)
